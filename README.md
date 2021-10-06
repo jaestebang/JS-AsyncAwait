@@ -34,6 +34,6 @@ Tratan promesas como si fueran funciones sincronas.
 	1. Manejo de excepciones
 	2. Fáciles de leer e interpretar
 
-####Desventajas:
+#### Desventajas:
 	1. Requiere un pollify para funcionar en todos los navegadores (Trascompilación)
 
