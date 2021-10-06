@@ -1,8 +1,12 @@
 # async
 ## ASINCRONIA JAVASCRIPT - CURSO PLATZI
+Ejecutar los scripts configurados en package.json para detallar el comportamiento.
 
 ### CallBacks: 
 Una función de callback es una función que se pasa a otra función como un argumento, que luego se invoca dentro de la función externa para completar algún tipo de rutina o acción.
+
+Scripts => callback:index
+Scripts => callback:challenge
 
 #### Ventajas:
 	1. Simple y fácil de implementar
@@ -17,6 +21,9 @@ Una función de callback es una función que se pasa a otra función como un arg
 
 Es usado para computaciones asíncronas. Una promesa representa un valor que puede estar disponible ahora, en el futuro, o nunca.
 
+Scripts => promise:index
+Scripts => promise:challenge
+
 #### Ventajas:
 	1. Fácil de enlazar
 	2. Intuitivo de leer
@@ -29,6 +36,8 @@ Es usado para computaciones asíncronas. Una promesa representa un valor que pue
 
 ### ASYNC / AWAIT:
 Tratan promesas como si fueran funciones sincronas.
+
+Scripts => async:challenge
 
 #### Ventajas:
 	1. Manejo de excepciones
