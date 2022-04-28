@@ -1,5 +1,4 @@
-# async
-## ASINCRONIA JAVASCRIPT
+# ASINCRONIA JAVASCRIPT
 Ejecutar los scripts configurados en package.json para detallar el comportamiento.
 
 ### CallBacks: 
